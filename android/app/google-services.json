@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "413926796794",
+    "project_id": "asm-react-47e6c",
+    "storage_bucket": "asm-react-47e6c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:413926796794:android:855c102dd75a592a62c843",
+        "android_client_info": {
+          "package_name": "com.asm"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "413926796794-itonth4kuqib716udcandavfkj480294.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.asm",
+            "certificate_hash": "4d0601f1e8974da96d69d88522b3dc76a285c316"
+          }
+        },
+        {
+          "client_id": "413926796794-4q2lk3f6l9g01stss53m7439roivsndi.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyACgmzz1CRij1G5qPvOGZ7B5q-WIzvF3gw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "413926796794-4q2lk3f6l9g01stss53m7439roivsndi.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
